@@ -9,7 +9,7 @@ Serviço de Consulta Notas Destinadas
 
 >status: development⚠️
 
-### It is a desktop application planned by me, where I perform the CRUD of the processes carried out in the system in addition to other features, such as generating a report, among others, which is used in a small business.
+### It is a desktop application developed by for consultation of intended notes, where periodic screening of documents issued against the consulted CNPJ is carried out.
 
 ## Some fields in the main template are:
 
