@@ -9,23 +9,20 @@ Serviço de Consulta Notas Destinadas
 
 >status: development⚠️
 
-### It is a desktop application developed by for consultation of intended notes, where periodic screening of documents issued against the consulted CNPJ is carried out.
+### It is a desktop application developed for consultation of intended notes, where periodic screening of documents issued against the consulted CNPJ is carried out.
 
-## Some fields in the main template are:
+## The fields in the main template are:
 
-+ customer registration
-+ product registration
-+ automatic address lookup via zip code
-+ consultation of registered products
-+ product category, stock, stock control
-+ sales module, possible to generate sales report
-+ automated email sending  
-In addition, there is a user with these fields:
++ Customer registration
++ company registration
++ automatic search for registered companies
++ consultation of tax documents at the national sefaz
+
+Also, there is a user with these fields:
 
 + name
-+ email
-+ cpf
-+ active
++ user
++ passwor
 
 ## In addition to CRUD, I implement other features, such as:
 
