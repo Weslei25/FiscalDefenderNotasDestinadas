@@ -31,3 +31,9 @@ Also, there is a user with these fields:
 + password: senha
 + port: porta
 + database: nome do banco
+
+### Time for consultation notes intended
++ tempo_exec_consulta:60
+### Time to catalog nfe for nfedestined
++ intervalo_dia_cataloga_notas: 10000
++ tempo_exec:60
