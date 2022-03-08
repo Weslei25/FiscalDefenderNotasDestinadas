@@ -37,3 +37,6 @@ Also, there is a user with these fields:
 ### Time to catalog nfe for nfedestined
 + intervalo_dia_cataloga_notas: 10000
 + tempo_exec:60
+
+# Install
++ To install the service, the https://nssm.cc/usage
